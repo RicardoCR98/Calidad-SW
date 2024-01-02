@@ -17,7 +17,7 @@ El proyecto está desarrollado en Java utilizando IntelliJ IDEA Community Editio
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/SrKarma07/CalidadSW.git
+   git clone https://github.com/RicardoCR98/Calidad-SW.git
 
 ## Créditos
 
