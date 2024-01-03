@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+
+# archivos de configuración de IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# archivos de salida / binarios
+out/
+target/

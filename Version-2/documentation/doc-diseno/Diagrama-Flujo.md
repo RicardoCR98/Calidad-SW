@@ -19,3 +19,4 @@ Este tiene los siguientes pasos:
 3. **¿Se encuentra la palabra en el diccionario?**: el programa busca la palabra en el diccionario.
 4. **Se muestra la palabra**: si la palabra se encuentra en el diccionario, el programa la reemplaza por la traducción correspondiente.
 5. **FIN**: el programa termina el proceso.
+
